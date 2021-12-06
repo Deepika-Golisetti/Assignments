@@ -1,0 +1,91 @@
+body{
+    background: rgb(247, 244, 246);
+    align-items: center;
+}
+.wrap{
+    width: 500px;
+    margin: auto;
+    background:rgb(238, 238, 238);
+    margin-top: 50px;
+    padding: 5px;
+}
+form{
+    padding: 10px;
+    font-family: arial;
+    border:1px dotted white;
+    margin: 10px;
+}
+/*.btn{
+    color: white;
+    width: 60%;
+    align-content: center;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 5px 0;
+    border: none;
+    outline: none;
+    background-color: rgb(59, 59, 189);
+}*/
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+input[type=text], input[type=Email],input[type=Comformemail],input[type=password]{
+    width:90%;
+}
+/*input[type=Day],input[type=Year]{
+    width: 5%;
+}*/
+span{
+    padding: 2px;
+    margin: 2px;
+    border-radius: 1px;
+    border: none;
+}
+
+input[type=button]{
+    width: 85%;
+    background-color: rgb(48, 240, 48);
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+select
+
+{
+    padding: 10px;
+    width:32%;
+    border-radius: 5px;
+}
+hr{
+    margin-top: 20px;
+    width: 90%;
+}
+.or{
+    background: rgb(238, 238, 238);
+    width: 30px;
+    margin: -18px auto 11px;
+}
+.btn{
+    
+        width: 110%;
+        padding: 15px;
+        background-color: rgb(27, 27, 150);
+        margin-top: 15px;
+        color: lavender;
+        border-radius: 20px;
+        border-style: none;
+        align-content: center;
+        font-variant: initial;
+}
+ 
+
