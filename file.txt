@@ -1,3 +1,0 @@
-Hi!
-My name is Deepika.
-This is my first file on git.
