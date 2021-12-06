@@ -1,0 +1,16 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.column {
+            float:left;
+            padding:10px;
+        }
+           .row:after{
+               content: normal ;
+           }
+            
+        
+
+
